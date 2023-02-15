@@ -1,4 +1,4 @@
-# Title
+# Git branching
 This is a sample repository
 
 ## Installation
