@@ -1,2 +1,2 @@
 This is another file
-We are exploring git merge
+We are now learning git conflicts and resolving them
