@@ -1,2 +1,2 @@
 This is another file
-We are now learning git conflicts and resolving them
+We are now learning git rebasing conflicts and resolving them
