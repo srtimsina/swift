@@ -7,3 +7,5 @@ Use the `apt` package manager to setup `net-tools`.
 apt install net-tools
 ```
 With the above command we can install net-tools
+
+Adding new changes 
