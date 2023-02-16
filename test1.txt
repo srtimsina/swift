@@ -3,3 +3,7 @@ We are now learning git rebasing conflicts and resolving them
 adding some useful changes for git rebasing
 
 Adding changes after rebase successful
+Git rebase is now completed
+We are now starting git stash
+Continuing the work....
+
