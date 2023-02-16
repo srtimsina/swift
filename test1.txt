@@ -1,3 +1,5 @@
 This is another file
 We are now learning git rebasing conflicts and resolving them
 adding some useful changes for git rebasing
+
+Adding changes after rebase successful
